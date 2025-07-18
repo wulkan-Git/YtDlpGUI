@@ -8,7 +8,7 @@
 
 **YtDlpGUI** - это удобная графическая оболочка для популярной консольной утилиты `yt-dlp.exe`, позволяющая скачивать видео и аудио с различных интернет-ресурсов без использования командной строки.
 
-![YtDlpGUI Interface]([screenshot.png](https://private-user-images.githubusercontent.com/208951367/465761578-d3ae4842-1e08-4808-8b56-ed59f78bc474.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4NDc3MzksIm5iZiI6MTc1Mjg0NzQzOSwicGF0aCI6Ii8yMDg5NTEzNjcvNDY1NzYxNTc4LWQzYWU0ODQyLTFlMDgtNDgwOC04YjU2LWVkNTlmNzhiYzQ3NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOFQxNDAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YzRhN2U5ODMyYmIzM2UxNGE3NTNhMWVhYzBmNGU2YmFiOTZmOTE5N2U0NTM4OTRhZTVhZGM1ZDQ1NjEwNjAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PBOhA1L2HrJAy7VBdQTeQ_hjBMsqpEo2zhtuNXFf8pc)) <!-- Замените на реальный путь к скриншоту -->
+![YtDlpGUI Interface]([screenshot.png](https://i.postimg.cc/tTxgXss1/333.png)) <!-- Замените на реальный путь к скриншоту -->
 
 ## 🌟 Основные возможности
 
