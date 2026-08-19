@@ -1,0 +1,17 @@
+Repository description:
+Modern Windows GUI for yt-dlp — video/audio downloads, quality & exact format selection, batch mode and multilingual interface.
+
+Website:
+https://my.ws-soft.ru/
+
+Topics:
+yt-dlp
+youtube-downloader
+video-downloader
+audio-downloader
+windows
+winforms
+dotnet
+ffmpeg
+download-manager
+gui
